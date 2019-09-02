@@ -1,10 +1,11 @@
 *.pyc
 *.pyo
 *.log
-CQP.cfg
+*.cfg
 CQA.key
 log.txt
 Set.ini
+key.ini
 config.ini
 设置.ini
 build
@@ -15,3 +16,10 @@ release
 release/*
 config
 config/*
+data
+data/*
+Cache
+Cache/*
+_Tmp*
+temp
+temp/*
