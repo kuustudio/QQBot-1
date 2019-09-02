@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.log
+CQP.cfg
+CQA.key
+log.txt
+Set.ini
+config.ini
+设置.ini
+build
+build/*
+dist
+dist/*
+release
+release/*
+config
+config/*
