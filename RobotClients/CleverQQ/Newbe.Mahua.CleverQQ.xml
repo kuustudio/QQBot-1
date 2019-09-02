@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Newbe.Mahua.CleverQQ</name>
+    </assembly>
+    <members>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_UpVoteApiOut">
+            <summary>
+            api out of method Api_UpVote
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetCookiesApiOut">
+            <summary>
+            api out of method Api_GetCookies
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetBlogPsKeyApiOut">
+            <summary>
+            api out of method Api_GetBlogPsKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetZonePsKeyApiOut">
+            <summary>
+            api out of method Api_GetZonePsKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupPsKeyApiOut">
+            <summary>
+            api out of method Api_GetGroupPsKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetClassRoomPsKeyApiOut">
+            <summary>
+            api out of method Api_GetClassRoomPsKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetBknApiOut">
+            <summary>
+            api out of method Api_GetBkn
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetBkn32ApiOut">
+            <summary>
+            api out of method Api_GetBkn32
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetLongLdwApiOut">
+            <summary>
+            api out of method Api_GetLongLdw
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetClientkeyApiOut">
+            <summary>
+            api out of method Api_GetClientkey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetLongClientkeyApiOut">
+            <summary>
+            api out of method Api_GetLongClientkey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetNickApiOut">
+            <summary>
+            api out of method Api_GetNick
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupCardApiOut">
+            <summary>
+            api out of method Api_GetGroupCard
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetObjLevelApiOut">
+            <summary>
+            api out of method Api_GetObjLevel
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetFriendListApiOut">
+            <summary>
+            api out of method Api_GetFriendList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetFriendList_BApiOut">
+            <summary>
+            api out of method Api_GetFriendList_B
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetQidianQQFriendsListApiOut">
+            <summary>
+            api out of method Api_GetQidianQQFriendsList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupAdminApiOut">
+            <summary>
+            api out of method Api_GetGroupAdmin
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupList_AApiOut">
+            <summary>
+            api out of method Api_GetGroupList_A
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupListApiOut">
+            <summary>
+            api out of method Api_GetGroupList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupList_BApiOut">
+            <summary>
+            api out of method Api_GetGroupList_B
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupMemberListApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupMemberList_BApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberList_B
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupMemberList_CApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberList_C
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_IsShutUpApiOut">
+            <summary>
+            api out of method Api_IsShutUp
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_UpLoadPicApiOut">
+            <summary>
+            api out of method Api_UpLoadPic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetPicLinkApiOut">
+            <summary>
+            api out of method Api_GetPicLink
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_Tea加密ApiOut">
+            <summary>
+            api out of method Api_Tea加密
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_Tea解密ApiOut">
+            <summary>
+            api out of method Api_Tea解密
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SessionKeyApiOut">
+            <summary>
+            api out of method Api_SessionKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GNTransGIDApiOut">
+            <summary>
+            api out of method Api_GNTransGID
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GIDTransGNApiOut">
+            <summary>
+            api out of method Api_GIDTransGN
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_PBGroupNoticApiOut">
+            <summary>
+            api out of method Api_PBGroupNotic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetNoticeApiOut">
+            <summary>
+            api out of method Api_GetNotice
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_ShakeWindowApiOut">
+            <summary>
+            api out of method Api_ShakeWindow
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SetAnonApiOut">
+            <summary>
+            api out of method Api_SetAnon
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SetGroupCardApiOut">
+            <summary>
+            api out of method Api_SetGroupCard
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_CreateDisGroupApiOut">
+            <summary>
+            api out of method Api_CreateDisGroup
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_KickDisGroupMBRApiOut">
+            <summary>
+            api out of method Api_KickDisGroupMBR
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_InviteDisGroupApiOut">
+            <summary>
+            api out of method Api_InviteDisGroup
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetDisGroupListApiOut">
+            <summary>
+            api out of method Api_GetDisGroupList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetDisGroupMemberListApiOut">
+            <summary>
+            api out of method Api_GetDisGroupMemberList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetObjVoteApiOut">
+            <summary>
+            api out of method Api_GetObjVote
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_UpLoadVoiceApiOut">
+            <summary>
+            api out of method Api_UpLoadVoice
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetVoiLinkApiOut">
+            <summary>
+            api out of method Api_GetVoiLink
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetTimeStampApiOut">
+            <summary>
+            api out of method Api_GetTimeStamp
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SendPackApiOut">
+            <summary>
+            api out of method Api_SendPack
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetObjInfoApiOut">
+            <summary>
+            api out of method Api_GetObjInfo
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGenderApiOut">
+            <summary>
+            api out of method Api_GetGender
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetQQAgeApiOut">
+            <summary>
+            api out of method Api_GetQQAge
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetAgeApiOut">
+            <summary>
+            api out of method Api_GetAge
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetPerExpApiOut">
+            <summary>
+            api out of method Api_GetPerExp
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetSignApiOut">
+            <summary>
+            api out of method Api_GetSign
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetEmailApiOut">
+            <summary>
+            api out of method Api_GetEmail
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupNameApiOut">
+            <summary>
+            api out of method Api_GetGroupName
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetVerApiOut">
+            <summary>
+            api out of method Api_GetVer
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetQQListApiOut">
+            <summary>
+            api out of method Api_GetQQList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetOnLineListApiOut">
+            <summary>
+            api out of method Api_GetOnLineList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetOffLineListApiOut">
+            <summary>
+            api out of method Api_GetOffLineList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_AddQQApiOut">
+            <summary>
+            api out of method Api_AddQQ
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_DelQQApiOut">
+            <summary>
+            api out of method Api_DelQQ
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_IfFriendApiOut">
+            <summary>
+            api out of method Api_IfFriend
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetRInfApiOut">
+            <summary>
+            api out of method Api_GetRInf
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_DelFriendApiOut">
+            <summary>
+            api out of method Api_DelFriend
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_AddBkListApiOut">
+            <summary>
+            api out of method Api_AddBkList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SendVoiceApiOut">
+            <summary>
+            api out of method Api_SendVoice
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SetAdminApiOut">
+            <summary>
+            api out of method Api_SetAdmin
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetLogApiOut">
+            <summary>
+            api out of method Api_GetLog
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_IsEnableApiOut">
+            <summary>
+            api out of method Api_IsEnable
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_WithdrawMsgApiOut">
+            <summary>
+            api out of method Api_WithdrawMsg
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetQQAddModeApiOut">
+            <summary>
+            api out of method Api_GetQQAddMode
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_IsOnlineApiOut">
+            <summary>
+            api out of method Api_IsOnline
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetOnlineStateApiOut">
+            <summary>
+            api out of method Api_GetOnlineState
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupMemberNumApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberNum
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetWpaApiOut">
+            <summary>
+            api out of method Api_GetWpa
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupAddModeApiOut">
+            <summary>
+            api out of method Api_GetGroupAddMode
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupLvApiOut">
+            <summary>
+            api out of method Api_GetGroupLv
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetFriendsRemarkApiOut">
+            <summary>
+            api out of method Api_GetFriendsRemark
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_SignInApiOut">
+            <summary>
+            api out of method Api_SignIn
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_TakeGiftApiOut">
+            <summary>
+            api out of method Api_TakeGift
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_CheckGiftApiOut">
+            <summary>
+            api out of method Api_CheckGift
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GiveGiftApiOut">
+            <summary>
+            api out of method Api_GiveGift
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetGroupChatLvApiOut">
+            <summary>
+            api out of method Api_GetGroupChatLv
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetExpertDaysApiOut">
+            <summary>
+            api out of method Api_GetExpertDays
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.CleverQQ.Api_GetShieldedStateApiOut">
+            <summary>
+            api out of method Api_GetShieldedState
+            </summary>
+        </member>
+    </members>
+</doc>

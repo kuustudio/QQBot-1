@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Newbe.Mahua.MPQ</name>
+    </assembly>
+    <members>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGtk_BknApiOut">
+            <summary>
+            api out of method Api_GetGtk_Bkn
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetBkn32ApiOut">
+            <summary>
+            api out of method Api_GetBkn32
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetLdwApiOut">
+            <summary>
+            api out of method Api_GetLdw
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetRunPathApiOut">
+            <summary>
+            api out of method Api_GetRunPath
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetOnlineQQlistApiOut">
+            <summary>
+            api out of method Api_GetOnlineQQlist
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetQQlistApiOut">
+            <summary>
+            api out of method Api_GetQQlist
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetSessionkeyApiOut">
+            <summary>
+            api out of method Api_GetSessionkey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetClientkeyApiOut">
+            <summary>
+            api out of method Api_GetClientkey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetLongClientkeyApiOut">
+            <summary>
+            api out of method Api_GetLongClientkey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetCookiesApiOut">
+            <summary>
+            api out of method Api_GetCookies
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetPrefixApiOut">
+            <summary>
+            api out of method Api_GetPrefix
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_ShutupApiOut">
+            <summary>
+            api out of method Api_Shutup
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetNoticeApiOut">
+            <summary>
+            api out of method Api_GetNotice
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetNameCardApiOut">
+            <summary>
+            api out of method Api_GetNameCard
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_DelFriendApiOut">
+            <summary>
+            api out of method Api_DelFriend
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_KickApiOut">
+            <summary>
+            api out of method Api_Kick
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_UploadPicApiOut">
+            <summary>
+            api out of method Api_UploadPic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GuidGetPicLinkApiOut">
+            <summary>
+            api out of method Api_GuidGetPicLink
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_ReplyApiOut">
+            <summary>
+            api out of method Api_Reply
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendMsgApiOut">
+            <summary>
+            api out of method Api_SendMsg
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendApiOut">
+            <summary>
+            api out of method Api_Send
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_OutPutApiOut">
+            <summary>
+            api out of method Api_OutPut
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_IsEnableApiOut">
+            <summary>
+            api out of method Api_IsEnable
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_LoginApiOut">
+            <summary>
+            api out of method Api_Login
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_Tea加密ApiOut">
+            <summary>
+            api out of method Api_Tea加密
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_Tea解密ApiOut">
+            <summary>
+            api out of method Api_Tea解密
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetNickApiOut">
+            <summary>
+            api out of method Api_GetNick
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetQQLevelApiOut">
+            <summary>
+            api out of method Api_GetQQLevel
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GNGetGidApiOut">
+            <summary>
+            api out of method Api_GNGetGid
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GidGetGNApiOut">
+            <summary>
+            api out of method Api_GidGetGN
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetVersionApiOut">
+            <summary>
+            api out of method Api_GetVersion
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetVersionNameApiOut">
+            <summary>
+            api out of method Api_GetVersionName
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetTimeStampApiOut">
+            <summary>
+            api out of method Api_GetTimeStamp
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetLogApiOut">
+            <summary>
+            api out of method Api_GetLog
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_IfBlockApiOut">
+            <summary>
+            api out of method Api_IfBlock
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetAdminListApiOut">
+            <summary>
+            api out of method Api_GetAdminList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_AddTaotaoApiOut">
+            <summary>
+            api out of method Api_AddTaotao
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetSignApiOut">
+            <summary>
+            api out of method Api_GetSign
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SetSignApiOut">
+            <summary>
+            api out of method Api_SetSign
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGroupListAApiOut">
+            <summary>
+            api out of method Api_GetGroupListA
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGroupListBApiOut">
+            <summary>
+            api out of method Api_GetGroupListB
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGroupMemberAApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberA
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGroupMemberBApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberB
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetFriendListApiOut">
+            <summary>
+            api out of method Api_GetFriendList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetQQAgeApiOut">
+            <summary>
+            api out of method Api_GetQQAge
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetAgeApiOut">
+            <summary>
+            api out of method Api_GetAge
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetPersonalProfileApiOut">
+            <summary>
+            api out of method Api_GetPersonalProfile
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetEmailApiOut">
+            <summary>
+            api out of method Api_GetEmail
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetGenderApiOut">
+            <summary>
+            api out of method Api_GetGender
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendTypingApiOut">
+            <summary>
+            api out of method Api_SendTyping
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendShakeApiOut">
+            <summary>
+            api out of method Api_SendShake
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetRadomOnlineQQApiOut">
+            <summary>
+            api out of method Api_GetRadomOnlineQQ
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_AddQQApiOut">
+            <summary>
+            api out of method Api_AddQQ
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SetOLStatusApiOut">
+            <summary>
+            api out of method Api_SetOLStatus
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetMCApiOut">
+            <summary>
+            api out of method Api_GetMC
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GroupInvitationApiOut">
+            <summary>
+            api out of method Api_GroupInvitation
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_CreateDGApiOut">
+            <summary>
+            api out of method Api_CreateDG
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_KickDGApiOut">
+            <summary>
+            api out of method Api_KickDG
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_DGInvitationApiOut">
+            <summary>
+            api out of method Api_DGInvitation
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_GetDGListApiOut">
+            <summary>
+            api out of method Api_GetDGList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendMusicApiOut">
+            <summary>
+            api out of method Api_SendMusic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_SendObjectMsgApiOut">
+            <summary>
+            api out of method Api_SendObjectMsg
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.MPQ.Api_IsFriendApiOut">
+            <summary>
+            api out of method Api_IsFriend
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Newbe</dc:creator>
+  <dc:description>Newbe.Mahua 针对CleverQQ平台推出的平台支持包。【此包不能直接引用到项目中，若要使用该包，请参考: http://www.newbe.pro】
+            CleverQQ是基于pc协议开发的一款多功能且扩展性强的机器人框架，我们提供了稳定的运行框架、简便的插件模板和专业的维护团队，力求给所有的正常用户更好的体验。
+            同时，为建造一个良好的使用环境，我们同样加入了不断完善的检测机制（人工、机器），对于黄、赌等各种非法用途一律采取不接受、不姑息的政策，也希望各位用户能够互相监督、自检自律。
+            https://d.cleverqq.cn/forum.php</dc:description>
+  <dc:identifier>Newbe.Mahua.CleverQQ.Asset</dc:identifier>
+  <version>2.1.1</version>
+  <keywords>Newbe Mahua IRQQ CleverQQ</keywords>
+  <lastModifiedBy>NuGet, Version=4.6.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 6.2.9200.0;.NET Framework 4.6</lastModifiedBy>
+</coreProperties>

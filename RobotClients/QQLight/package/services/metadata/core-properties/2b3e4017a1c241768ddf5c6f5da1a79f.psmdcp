@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Newbe</dc:creator>
+  <dc:description>Newbe.Mahua 针对QQLight平台推出的平台支持包。【此包不能直接引用到项目中，若要使用该包，请参考: http://www.newbe.pro】
+            全新的 QQLight （http://www.52chat.cc/）
+            上手即用的QQ机器人，即刻提升您的群活跃度，全自动便捷管理群组，它可以实现群管理、群聊天、便民娱乐等各种功能，让您的群逼格更高，更活跃！</dc:description>
+  <dc:identifier>Newbe.Mahua.QQLight.Asset</dc:identifier>
+  <version>2.1.1</version>
+  <keywords>Newbe Mahua QQLight</keywords>
+  <lastModifiedBy>NuGet, Version=4.6.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 6.2.9200.0;.NET Framework 4.6</lastModifiedBy>
+</coreProperties>

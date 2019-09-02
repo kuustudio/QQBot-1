@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Newbe.Mahua.QQLight</name>
+    </assembly>
+    <members>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetbknApiOut">
+            <summary>
+            api out of method Api_Getbkn
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetCookiesApiOut">
+            <summary>
+            api out of method Api_GetCookies
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetClientKeyApiOut">
+            <summary>
+            api out of method Api_GetClientKey
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetLoginQQApiOut">
+            <summary>
+            api out of method Api_GetLoginQQ
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetPluginStateApiOut">
+            <summary>
+            api out of method Api_GetPluginState
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetPathApiOut">
+            <summary>
+            api out of method Api_GetPath
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_163MusicApiOut">
+            <summary>
+            api out of method Api_163Music
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_QQMusicApiOut">
+            <summary>
+            api out of method Api_QQMusic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_JsonMusicApiOut">
+            <summary>
+            api out of method Api_JsonMusic
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_ErrorApiOut">
+            <summary>
+            api out of method Api_Error
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetGroupCardApiOut">
+            <summary>
+            api out of method Api_GetGroupCard
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetNickApiOut">
+            <summary>
+            api out of method Api_GetNick
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetPraiseNumApiOut">
+            <summary>
+            api out of method Api_GetPraiseNum
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetFriendListApiOut">
+            <summary>
+            api out of method Api_GetFriendList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetGroupListApiOut">
+            <summary>
+            api out of method Api_GetGroupList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetGroupMemberListApiOut">
+            <summary>
+            api out of method Api_GetGroupMemberList
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetQQInfoApiOut">
+            <summary>
+            api out of method Api_GetQQInfo
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetGroupInfoApiOut">
+            <summary>
+            api out of method Api_GetGroupInfo
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_RestartApiOut">
+            <summary>
+            api out of method Api_Restart
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_UpdatePluginApiOut">
+            <summary>
+            api out of method Api_UpdatePlugin
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_DeleteMsgApiOut">
+            <summary>
+            api out of method Api_DeleteMsg
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_SetQQStateApiOut">
+            <summary>
+            api out of method Api_SetQQState
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_GetQQinfo_v2ApiOut">
+            <summary>
+            api out of method Api_GetQQinfo_v2
+            </summary>
+        </member>
+        <member name="T:Newbe.Mahua.QQLight.Api_UpLoadPicApiOut">
+            <summary>
+            api out of method Api_UpLoadPic
+            </summary>
+        </member>
+    </members>
+</doc>

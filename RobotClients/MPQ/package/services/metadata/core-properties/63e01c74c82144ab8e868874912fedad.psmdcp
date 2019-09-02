@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Newbe</dc:creator>
+  <dc:description>Newbe.Mahua 针对MyPCQQ平台推出的平台支持包。【此包不能直接引用到项目中，若要使用该包，请参考: http://www.newbe.pro】
+            0 长久有效的技术支持及更新维护+独占功能
+            1 轻壳 极速运行
+            2 企业Q登录
+            3 不接入云黑机制
+            4 插件初始情况默认启用
+            5 允许接入UU 若快两个打码
+            6 移除推广信息
+            7 商业使用许可
+            https://f.mypcqq.cc/thread-4900-1-1.html</dc:description>
+  <dc:identifier>Newbe.Mahua.MPQ.Asset</dc:identifier>
+  <version>2.1.1</version>
+  <keywords>Newbe Mahua MPQ MyPcQQ</keywords>
+  <lastModifiedBy>NuGet, Version=4.6.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 6.2.9200.0;.NET Framework 4.6</lastModifiedBy>
+</coreProperties>

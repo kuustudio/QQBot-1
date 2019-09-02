@@ -4,10 +4,7 @@
 *.cfg
 CQA.key
 log.txt
-Set.ini
-key.ini
-config.ini
-设置.ini
+*.ini
 build
 build/*
 dist
